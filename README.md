@@ -1,6 +1,6 @@
 # Card_swipe_pred
 
-是否有盜刷分類問題：  
+分類信用卡是否有盜刷問題：  
 class: 0 沒盜刷 ,1 被盜刷  
 User_id:使用者身分(唯一)  
 Signup_time:創立帳號時間  
